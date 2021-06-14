@@ -134,18 +134,18 @@ html {
 /* Sidebar Menu */
 
 .menu .image {
-    margin-top: 100px;
+    margin-top: 60px;
 }
 
 .menu .image img {
-    width: 200px;
-    height: 200px;
-    border-radius: 30%;
+    width: 150px;
+    height: 150px;
+    border-radius: 60%;
     text-align: center;
 }
 
 .menu .author-content {
-    margin: 40px 10px 50px 10px;
+    margin: 40px 0px 60px 0px;
 }
 
 .menu .author-content h4 {
